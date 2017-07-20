@@ -26,8 +26,8 @@
   },
   "homepage": "https://github.com/race604/react-native-viewpager#readme",
   "dependencies": {
+    "react": "0.14.19",
     "react-timer-mixin": "^0.13.3",
-    "warning": "^2.1.0",
-    "react": "15.6.1"
+    "warning": "^2.1.0"
   }
 }
